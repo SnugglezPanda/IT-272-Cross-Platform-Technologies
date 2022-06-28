@@ -32,7 +32,8 @@ Storage virualization is similar to cloud computing, one of the most popular use
 
 Virtualization is a major part of the computing and technology industries and appears in a wide range of fields. For instance, the government uses virtualization to connect its many agencies and respond to the needs of citizens more efficiently. Schools use virtualization to organize and prepare computer labs and help off-site students access the materials they need for lessons. Hospitals and health care organizations use virtualization to keep patient records secure yet accessible to medical professionals. Manufacturers, retailers, and banks use virtualization to manage inventory, regulate branch offices, and offer new and more efficient services.
 
-<mar>Reasons companies choose virtualization:</mark>
+<mark>Reasons companies choose virtualization:</mark>
+
 <ol>
   <li> Primary reason is efficiency</li>
   <li> Machines that previoulsy used only 15% of their capabilities can use 80% with proper virtualization.</li>
@@ -41,7 +42,7 @@ Virtualization is a major part of the computing and technology industries and ap
   <li> Once correctly set up, may make software installation and system administration much simplier.</li>
 </ol>
 
-## Layers of Virtualization at Work
+# Layers of Virtualization at Work
 
 <ul>
   <li> Access virtualization</li>
