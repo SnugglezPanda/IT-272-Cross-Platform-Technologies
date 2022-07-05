@@ -65,3 +65,62 @@ Adoption of VMware Cloud on AWS is growing. Infrastructure and operations leader
 
 ------------------------------------------------------------------
 
+## Top 11 Virtualization Risks Identified
+
+List of 11 most common relative to compute virtualization:
+
+<ol>
+  <li> VM sprawl</li>
+  <li> Sensitive data within a VM</li>
+  <li> Security of offline & dormant VMs</li>
+  <li> Security of pre-configured (golden image) VM/active VMs</li>
+  <li> Lack of visibility and control over virtual networks</li>
+  <li> Resource exhaustion</li>
+  <li> Hypervisor security</li>
+  <li> Unauthorized access to hypervisor</li>
+  <li> Account or service hijacking through the self-service portal</li>
+  <li> Workloads of different trust levels located on the same server</li>
+  <li> Risk due to cloud service provider APIs</li>
+</ol>
+
+---------------------------------------------------------------------
+
+# Intro to Hyper-V
+
+What is Hyper-V?
+
+<ul>
+  <li>Hyper-V is a Microsoft virtualization product</li>
+  <li>it allows you to create Virtual Machines (VMs)</li>
+</ul>
+
+<strong>Virtual Machines</strong> are <strong>software computers</strong> 
+
+They run like a traditional <strong>software application</strong> on your computer
+
+<strong>Virtual Machines</strong> provides separate operating system instances. They can also have <strong>multiple operating systems</strong> running alongside each other.
+
+<strong>Hyper-V Terminology</strong>
+
+The server with <strong>Hyper-V role installed</strong> is called <strong>Host</strong>
+
+The <strong>Virtual Machines</strong> created on the <strong>Host</strong> are called <strong>Guests</strong>
+
+After creating a <strong>Virtual Machine</strong>, an <strong>Operating System</strong> is installed onto it; it does not have to be <strong>Microsoft Operating system</strong> 
+
+-------------------------------------------------------------------
+
+## Hyper-V vs. VMware: Which is Best?
+
+A hypervisor is computer software, firmware, or hardware that creates and runs virtual machines. The hypervisor presents virtual or guest operating systems to virtual machines and manages the execution of these virtual operating platforms, which can consist of a variety of operating systems.
+
+With the right hypervisor, it can ensure ease of use, flexible resource allocation, and minimal disruption to each of the operating systems in use.
+
+Two of the most common choices for hypervisors include:
+
+<ul>
+  <li> vSphere</li>
+  <li> VMware product</li>
+  <li> Hyper-V by Microsoft</li>
+</ul>
+
